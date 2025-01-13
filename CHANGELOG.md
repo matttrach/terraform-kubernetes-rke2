@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/matttrach/terraform-rancher2-aws/compare/v0.2.0...v0.2.1) (2025-01-13)
+
+
+### Bug Fixes
+
+* enable automatic testing and refactor tests ([#51](https://github.com/matttrach/terraform-rancher2-aws/issues/51)) ([5f3c4e9](https://github.com/matttrach/terraform-rancher2-aws/commit/5f3c4e9825306248fae297495b3341b39ffb6911))
+
 ## [0.2.0](https://github.com/rancher/terraform-rancher2-aws/compare/v0.1.0...v0.2.0) (2024-11-13)
 
 
